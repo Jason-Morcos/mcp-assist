@@ -1,7 +1,3 @@
-_Update: Fork moved over to Moballo-LLC - https://github.com/Moballo-LLC/ha-mcp-assist_
-
----
-
 # MCP Assist for Home Assistant
 
 A Home Assistant conversation agent that uses MCP (Model Context Protocol) for efficient entity discovery, achieving **95% token reduction** compared to traditional methods. Works with LM Studio, llama.cpp, Ollama, OpenAI, Google Gemini, Anthropic Claude, and OpenRouter.
